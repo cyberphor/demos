@@ -1,4 +1,9 @@
 
+# How to Learn Any New Skill
+# 1. learn the basics
+# 2. learn how to break it (the boundaries, limitations, what doesn't work)
+# 3. teach it (tell people what you learned to do and not do)
+
 # Semantics: what things mean
 # Syntax: where things go
 
